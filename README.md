@@ -1,6 +1,6 @@
 # Deep Learning Demos in Tensorflow
 
-This repository consists of notebooks for my DL blogs posted on Medium [Medium](https://medium.com/@mohanarc) and Substack [GitHub Pages](https://substack.com/@mohanarc?r=1ljeoy&utm_campaign=profile&utm_medium=profile-page).
+This repository consists of notebooks for my DL blogs posted on [Medium](https://medium.com/@mohanarc) and [Substack](https://substack.com/@mohanarc?r=1ljeoy&utm_campaign=profile&utm_medium=profile-page).
 
 The list of notebooks is:
 

@@ -7,3 +7,4 @@ The list of notebooks is:
 1. Convolutional Autoencoders for Image Denoising
 2. Convolutional Variational Autoencoders using MNIST
 3. DEMO for dimensions and parameters calculation
+4. DEMO for training Custom Tensorflow models on MNIST dataset
